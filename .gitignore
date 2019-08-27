@@ -1,4 +1,10 @@
-_site/
-.sass-cache/
-.jekyll-cache/
+#Jekyll
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
+vendor
+
+#Mac Garbage
+.DS_Store
+.DS_*
