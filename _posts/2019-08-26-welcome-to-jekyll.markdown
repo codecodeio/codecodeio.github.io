@@ -2,7 +2,7 @@
 layout: post
 title:  "Initial Commit! ...thats a git joke ;)"
 date:   2019-08-26 22:14:28 -0400
-categories: initial
+categories: Swift
 ---
 Welcome to my blog.
 
