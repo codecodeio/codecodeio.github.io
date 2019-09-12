@@ -2,7 +2,7 @@
 layout: post
 title:  "Too Long Didn't Read... TLDR"
 date:   2019-09-11 00:00:00 -0400
-categories: Brew, tldr
+categories: tldr brew
 ---
 Man pages make my eys bleed. They are an illegible smattering of commands and options that leave me guessing every time. 
 
